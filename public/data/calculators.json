@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Tip Calculator",
+        "description": "At a restaurant and have no clue how much to tip? We've got you covered.",
+        "href": "/tip-calculator"
+    },
+    {
+        "title": "Change Calculator",
+        "description": "Have a retail job? You've probably needed something like this while counting a register",
+        "href": "/change-calculator"
+    }
+]
